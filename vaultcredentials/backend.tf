@@ -4,7 +4,7 @@ terraform {
       organization = "birb-island"
 
       workspaces {
-          name = "please-just-launch"
+          name = "official-demo-testrun1"
       }
   }
 }
